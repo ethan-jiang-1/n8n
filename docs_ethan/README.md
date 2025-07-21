@@ -63,6 +63,16 @@
 - 🧪 [测试与 CI/CD](workflow_as_code_devops/03_Testing_And_CI_CD.md)
 - 📊 [工作流版本控制格式分析](workflow_as_code_devops/04_Workflow_Version_Control_Format_Analysis.md)
 
+### 🧩 [节点编排能力分析](node_orchestration_analysis/)
+**适合**: 节点开发者、系统集成工程师
+- 📋 [节点编排概览](node_orchestration_analysis/00_节点编排概览.md)
+- 🏗️ [节点分类体系分析](node_orchestration_analysis/01_节点分类体系分析.md)
+- 🔍 [基础节点库深度分析](node_orchestration_analysis/02_基础节点库深度分析.md)
+- 🤖 [AI LangChain节点分析](node_orchestration_analysis/03_AI_LangChain节点分析.md)
+- 📊 [节点统计和数据洞察](node_orchestration_analysis/04_节点统计和数据洞察.md)
+- 🚀 [编排能力评估报告](node_orchestration_analysis/05_编排能力评估报告.md)
+- 🔮 [节点生态发展趋势](node_orchestration_analysis/06_节点生态发展趋势.md)
+
 ### 📖 [初始分析档案](initial_analysis/)
 **适合**: 项目历史了解、深度研究
 - 🎯 [项目概览](initial_analysis/00_Project_Overview.md)
